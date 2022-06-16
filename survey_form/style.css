@@ -92,5 +92,6 @@ button{
     background-color: #37af65;
     width: 100%;
     padding: 10px;
+    cursor: pointer;
     font-size: 15px;
 }
